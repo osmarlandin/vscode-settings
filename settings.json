@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.shell.windows": "C:/Program Files/PowerShell/6.0.4/pwsh.exe",
+    "terminal.integrated.fontFamily": "Meslo LG S for Powerline",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.sideBar.location": "right"
+}
