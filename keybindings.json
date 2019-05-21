@@ -1,46 +1,20 @@
 // Place your key bindings in this file to override the defaultsauto[]
 [
     {
-        "key": "ctrl+alt+s",
-        "command": "workbench.action.gotoSymbol"
-    },
-    {
         "key": "ctrl+shift+o",
         "command": "workbench.action.terminal.split",
         "when": "terminalFocus"
     },
     {
-        "key": "ctrl+k",
+        "key": "ctrl+b",
         "command": "workbench.action.toggleSidebarVisibility"
     },
     {
-        "key": "ctrl+b",
-        "command": "-workbench.action.toggleSidebarVisibility"
-    },
-    {
-        "key": "ctrl+shift+5",
-        "command": "-workbench.action.terminal.split",
-        "when": "terminalFocus"
-    },
-    {
-        "key": "ctrl+oem_5",
-        "command": "-workbench.action.terminal.split",
-        "when": "terminalFocus"
-    },
-    {
-        "key": "ctrl+alt+q",
+        "key": "ctrl+k ctrl+o",
         "command": "workbench.action.files.openFolder"
     },
     {
-        "key": "ctrl+k ctrl+o",
-        "command": "-workbench.action.files.openFolder"
-    },
-    {
-        "key": "ctrl+alt+w",
+        "key": "ctrl+k ctrl+f",
         "command": "workbench.action.closeFolder"
-    },
-    {
-        "key": "ctrl+k f",
-        "command": "-workbench.action.closeFolder"
     }
 ]
